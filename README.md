@@ -4,7 +4,7 @@
 
 http://image-filter-starter-code-dev2222222222222222222222222.us-east-1.elasticbeanstalk.com/
 ## elastic beanstack screenshot
-[beanstack](./deployment_screenshots/dashboard-screenshot.png)
+![beanstack](./deployment_screenshots/dashboard-screenshot.png)
 ## Project Structure
 
 deployment_screenshots
